@@ -1,0 +1,13 @@
+{
+  "name": "arca-contract",
+  "devDependencies": {
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.3.1",
+    "truffle-plugin-verify": "^0.5.11"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts-upgradeable": "^3.4.1",
+    "@truffle/hdwallet-provider": "^1.4.1"
+  }
+}
