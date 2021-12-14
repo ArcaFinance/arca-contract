@@ -1,7 +1,7 @@
 # Arca Finance
 
 ## Overview
-Arca Finance is a full-suite defi platform for stablecoins that comes with an AMM protocol specialized in efficient stable assets swapping at ultra-low fees/slippage that also enables users to earn passive income with stable assets by yield farming, lending, and vault system. 
+Arca Finance is a full-suite DeFi platform for stablecoins that comes with an AMM protocol specialized in efficient stable assets swapping at ultra-low fees/slippage that also enables users to earn passive income with stable assets by yield farming, lending, and vault system. 
 
 Arca functionality focuses on providing highest yields with minimal risk (little to no IL) for the depositors through a combination of LP rewards and the Vaults system while offering a near zero slippage exchange.
 
